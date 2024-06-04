@@ -122,3 +122,31 @@ a {
 .card-info__text {
     font-size: 16px;
 }
+
+/* CITE BLOCK */
+
+.cite {
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.cite__body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cite__text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.cite__author {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    align-self: flex-end;
+}
