@@ -54,7 +54,8 @@ a {
 /* HERO SECTION */
 
 .hero {
-    padding: 100px 0;
+    padding-top: 80px;
+    padding-bottom: 130px;
 }
 
 .hero__body {
