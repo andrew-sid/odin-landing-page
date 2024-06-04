@@ -102,9 +102,8 @@ a {
 
 .info__cards {
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 50px;
 }
 
 .info__card {
